@@ -1,0 +1,1128 @@
+[
+  {
+    "chunk_id": "tomato_img1_basal_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "transplanting",
+    "language": "hi",
+    "content": "टमाटर फसल में रोपाई के समय बेसल डोस भूमि द्वारा दिया जाता है। महाधन स्पिगेनिक 10:26:26 की मात्रा 100 कि.ग्रा./लि. प्रति एकड़, 1 बार और कुल मात्रा 100 है। महाधन बेन्सल्फ सुपरफास्फेट की मात्रा 20 कि.ग्रा./लि. प्रति एकड़, 1 बार और कुल मात्रा 20 है। महाधन जिंक सल्फेट मोनो हाइड्रेट (33%) की मात्रा 5 कि.ग्रा./लि. प्रति एकड़, 1 बार और कुल मात्रा 5 है।",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil",
+      "source_language": "hi"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_vegetative_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "vegetative_growth",
+    "language": "hi",
+    "content": "टमाटर फसल में शासकीय बढवार अवस्था 11 से 50 दिन के दौरान फर्टिगेशन/छिड़काव द्वारा महाधन सोल्यूटेक टोमेटो (17:14:9 + TE) की मात्रा 5.5 कि.ग्रा./लि. प्रति एकड़ हर 5 दिन बाद, 10 बार, कुल 55 कि.ग्रा./लि. प्रति एकड़ है।",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "fertigation/spray",
+      "product": "महाधन सोल्यूटेक टोमेटो (17:14:9 + TE)"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_vegetative_support_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "vegetative_growth",
+    "language": "hi",
+    "content": "टमाटर की शासकीय बढवार अवस्था में महाधन कैल्शियम नायट्रेट 20 से 45 वे दिन 5 कि.ग्रा. प्रति एकड़, 2 बार, कुल 10 कि.ग्रा. प्रति एकड़ दिया जाता है। महाधन मैग्नीशियम सल्फेट 15 एवं 30 वे दिन 5 कि.ग्रा. प्रति एकड़, 2 बार, कुल 10 कि.ग्रा. प्रति एकड़ दिया जाता है। महाधन जिंक ईडीटीई छिड़काव द्वारा 20 वे दिन 0.25 कि.ग्रा. प्रति एकड़, 1 बार दिया जाता है। महाधन CaTs 25 वे दिन 5 कि.ग्रा. प्रति एकड़, 1 बार दिया जाता है। महाधन शाईन + Fe ईडीटीई छिड़काव द्वारा 35 वे दिन 0.5 + 0.25 कि.ग्रा. प्रति एकड़, 1 बार दिया जाता है।",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_flowering_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "flowering_and_fruit_development",
+    "language": "hi",
+    "content": "टमाटर की पुष्यपर्णाण एवं फल विकास अवस्था 51 से 75 दिन में महाधन सोल्यूटेक टोमेटो (13:12:19 + TE) की मात्रा 5.5 कि.ग्रा./लि. प्रति एकड़ हर 5 दिन बाद, 10 बार, कुल 55 कि.ग्रा./लि. प्रति एकड़ है। महाधन मैग्नीशियम सल्फेट 45, 55, 65, 75 एवं 85 वे दिन 5 कि.ग्रा. प्रति एकड़, 5 बार, कुल 25 कि.ग्रा. प्रति एकड़ है। महाधन कैल्शियम नायट्रेट 43, 53 एवं 60 वे दिन 5 कि.ग्रा. प्रति एकड़, 3 बार, कुल 15 कि.ग्रा. प्रति एकड़ है।",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_fruit_development_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "fruit_development_and_picking",
+    "language": "hi",
+    "content": "टमाटर की फल विकास एवं तोड़नी अवस्था 76 से 120 दिन में महाधन सोल्यूटेक टोमेटो (9:8:28 + TE) की मात्रा 5.5 कि.ग्रा./लि. प्रति एकड़ हर 5 दिन बाद, 10 बार, कुल 55 कि.ग्रा./लि. प्रति एकड़ है। महाधन CaTs + महाधन KTS 75 एवं 87 वे दिन 5 + 2.5 कि.ग्रा. प्रति एकड़, 2 बार, कुल 10 + 5 है। महाधन कैल्शियम नायट्रेट 74, 80, 85, 90 एवं 95 वे दिन 5 कि.ग्रा. प्रति एकड़ दिया जाता है। महाधन शाईन छिड़काव द्वारा 90 वे दिन 0.5 कि.ग्रा. प्रति एकड़, 1 बार दिया जाता है।",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_late_stage_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "ripening_and_picking",
+    "language": "hi",
+    "content": "टमाटर की पकता एवं तोड़नी अवस्था में 121 से 160 दिनों में महाधन सोल्यूटेक टोमेटो (9:8:28 + TE) की मात्रा 5.5 कि.ग्रा./लि. प्रति एकड़ हर 5 दिन बाद, 10 बार, कुल 55 कि.ग्रा./लि. प्रति एकड़ है। महाधन मैग्नीशियम सल्फेट + महाधन KTS 110 एवं 120 दिन पश्चात 5 + 5 कि.ग्रा. प्रति एकड़, 2 बार, कुल 10 + 10 है। महाधन शाईन 105 वे दिन 0.5 कि.ग्रा. प्रति एकड़, 1 बार दिया जाता है। महाधन कैल्शियम नायट्रेट 108, 116, 124, 132 एवं 140 दिन बाद 5 कि.ग्रा. प्रति एकड़, 5 बार, कुल 25 कि.ग्रा. प्रति एकड़ है। महाधन बोरोन ईडीटीोनी - 20% 115 दिन पश्चात 0.5 कि.ग्रा. प्रति एकड़, 1 बार दिया जाता है।",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_note_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "general_note",
+    "language": "hi",
+    "content": "नोट: महान सोल्यूटेक टोमेटो खाद में नजनजन, फास्फोरस, पोटश के अतिरिक्त बोरॉन एवं सूक्ष्म पोषक तत्वों का समावेश है।",
+    "metadata": {
+      "source": "OCR",
+      "type": "note"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_basal_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "transplanting",
+    "language": "en",
+    "content": "Crop: Tomato. At transplanting, basal dose through soil: Mahadhan Spigenic 10:26:26 at 100 kg/l per acre, 1 application, total 100 kg/l per acre; Mahadhan Bensulf Superphosphate at 20 kg/l per acre, 1 application, total 20 kg/l per acre; Mahadhan Zinc Sulphate Monohydrate (33%) at 5 kg/l per acre, 1 application, total 5 kg/l per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_vegetative_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "vegetative_growth",
+    "language": "en",
+    "content": "Crop: Tomato. Vegetative growth stage, 11 to 50 days after transplanting. Through fertigation or spray, Mahadhan Solutek Tomato (17:14:9 + TE) at 5.5 kg/l per acre every 5 days, 10 applications, total dose 55 kg/l per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "fertigation/spray",
+      "product": "Mahadhan Solutek Tomato (17:14:9 + TE)"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_vegetative_support_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "vegetative_growth",
+    "language": "en",
+    "content": "Crop: Tomato. During vegetative growth, Mahadhan Calcium Nitrate is applied on the 20th to 45th day at 5 kg/l per acre for 2 applications, total 10 kg/l per acre. Mahadhan Magnesium Sulphate is applied on the 15th and 30th day at 5 kg/l per acre for 2 applications, total 10 kg/l per acre. Mahadhan Zinc EDTA is applied through spray on the 20th day at 0.25 kg/l per acre for 1 application. Mahadhan CaTs is applied on the 25th day at 5 kg/l per acre for 1 application. Mahadhan Shine + Fe EDTA is applied through spray on the 35th day at 0.5 + 0.25 kg/l per acre for 1 application.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_flowering_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "flowering_and_fruit_development",
+    "language": "en",
+    "content": "Crop: Tomato. Flowering and fruit development stage, 51 to 75 days after transplanting. Mahadhan Solutek Tomato (13:12:19 + TE) at 5.5 kg/l per acre every 5 days, 10 applications, total 55 kg/l per acre. Mahadhan Magnesium Sulphate on the 45th, 55th, 65th, 75th and 85th day at 5 kg/l per acre for 5 applications, total 25 kg/l per acre. Mahadhan Calcium Nitrate on the 43rd, 53rd and 60th day at 5 kg/l per acre for 3 applications, total 15 kg/l per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_fruit_development_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "fruit_development_and_picking",
+    "language": "en",
+    "content": "Crop: Tomato. Fruit development and picking stage, 76 to 120 days after transplanting. Mahadhan Solutek Tomato (9:8:28 + TE) at 5.5 kg/l per acre every 5 days, 10 applications, total 55 kg/l per acre. Mahadhan CaTs + Mahadhan KTS on the 75th and 87th day at 5 + 2.5 kg/l per acre, 2 applications, total 10 + 5 kg/l per acre. Mahadhan Calcium Nitrate on the 74th, 80th, 85th, 90th and 95th day at 5 kg/l per acre. Mahadhan Shine through spray on the 90th day at 0.5 kg/l per acre for 1 application.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_late_stage_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "ripening_and_picking",
+    "language": "en",
+    "content": "Crop: Tomato. The 121 to 160 day period lists Mahadhan Solutek Tomato (9:8:28 + TE) at 5.5 kg/l per acre every 5 days for 10 applications, total 55 kg/l per acre. During ripening and picking, Mahadhan Magnesium Sulphate + Mahadhan KTS are applied after 110 and 120 days at 5 + 5 kg/l per acre for 2 applications, total 10 + 10. Mahadhan Shine is applied on the 105th day at 0.5 kg/l per acre for 1 application. Mahadhan Calcium Nitrate is applied after 108, 116, 124, 132 and 140 days at 5 kg/l per acre for 5 applications, total 25 kg/l per acre. Mahadhan Boron EDTA - 20% is applied after 115 days at 0.5 kg/l per acre for 1 application.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "tomato_img1_note_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210755.png",
+    "crop": "tomato",
+    "stage": "general_note",
+    "language": "en",
+    "content": "Note: Mahadhan Solutek Tomato fertiliser contains, besides nitrogen, phosphorus and potash, boron and micronutrients.",
+    "metadata": {
+      "source": "English translation OCR",
+      "type": "note"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_pre_pruning_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "before_or_after_pruning",
+    "language": "en",
+    "content": "Crop: Grapes. Before pruning or 2 days after pruning, basal dose: Mahadhan Croptek 9:24:24 at 100 kg/l per acre, 1 application, total 100 kg/l per acre; Mahadhan Bensulf Superfast at 30 kg/l per acre, 1 application, total 30 kg/l per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_vegetative_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "vegetative_growth",
+    "language": "en",
+    "content": "Crop: Grapes. Vegetative growth stage, 7 to 35 days after pruning. Mahadhan Grapes Special (15:28:6 + TE) at 11 kg/l per week per acre, 4 applications, total 44 kg/l per acre. Mahadhan Calcium Nitrate on the 12th and 35th day as needed at 5 kg/l per acre, 2 applications, total 10 kg/l per acre. Mahadhan CaTs on the 25th and 38th day at 5 l per acre, 2 applications, total 10 l per acre. Mahadhan Magnesium Sulphate on the 15th and 30th day at 5 kg/l per acre, 2 applications, total 10 kg/l per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_flowering_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "flowering_and_berry_growth",
+    "language": "en",
+    "content": "Crop: Grapes. Flowering and berry growth stage, 36 to 70 days after pruning. Mahadhan Grapes Special (6:34:17 + TE) at 11 kg/l per week per acre, 4 applications, total 44 kg/l per acre. Mahadhan Magnesium Sulphate on the 45th and 55th day at 5 kg/l per acre, 2 applications, total 10 kg/l per acre. Mahadhan CaTs on the 55th and 65th day at 5 l per acre, 2 applications, total 10 l per acre. Mahadhan Calcium Nitrate on the 41st, 53rd, 63rd and 68th day at 5 kg/l per acre, 4 applications, total 20 kg/l per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_berry_development_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "berry_development",
+    "language": "en",
+    "content": "Crop: Grapes. Berry development stage, 71 to 85 days after pruning. Mahadhan Grapes Special (6:34:17 + TE) at 11 kg/l per week per acre, 3 applications, total 33 kg/l per acre. Mahadhan Calcium Nitrate on the 80th and 90th day as needed at 5 kg/l per acre, 2 applications, total 10 kg/l per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_veraison_harvest_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "veraison_and_harvesting",
+    "language": "en",
+    "content": "Crop: Grapes. Water reduction (veraison) and harvesting stage, 86 to 106 days after pruning: Mahadhan Grapes Special (6:0:37:16 + TE) at 11 kg/l per week per acre, 3 applications, total 33 kg/l per acre. From 106 to 120 days: Mahadhan SOP / Mahadhan KTS at 5 kg/l per acre, 3 applications, total 15 kg/l per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_note_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "general_note",
+    "language": "en",
+    "content": "Note for grapes: Fertilizer doses may change according to weather, the load on the grapevine and the time of pruning.",
+    "metadata": {
+      "source": "English translation OCR",
+      "type": "note"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_pre_pruning_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "before_or_after_pruning",
+    "language": "mr",
+    "content": "द्राक्ष पिकात छाटणीपूर्वी/ छाटणीनंतर २ दिवसांनी बेसल डोस म्हणून महाधन क्रॉपटेक ९:२४:२४ १०० कि./लि./एकर, १ वेळ, एकूण १०० आणि महाधन बेन्सल्फ सुपरफास्ट ३० कि./लि./एकर, १ वेळ, एकूण ३० दिले जाते.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_vegetative_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "vegetative_growth",
+    "language": "mr",
+    "content": "द्राक्ष पिकाच्या शाखीय वाढ अवस्थेत ७ ते ३५ दिवसांत महाधन ग्रेप्स स्पेशल (१५:२८:६ + TE) ११ कि. प्रति आठवडा प्रति एकर, ४ वेळा, एकूण ४४ दिले जाते. महाधन कॅल्शियम नायट्रेट गरज पाहून १२ व ३५ व्या दिवशी ५ कि. प्रति एकर, २ वेळा, एकूण १० दिले जाते. महाधन CaTs २५ व ३८ व्या दिवशी ५ लि. प्रति एकर, २ वेळा, एकूण १० लि. दिले जाते. महाधन मॅंगनीशियम सल्फेट १५ व्या व ३० व्या दिवशी ५ कि. प्रति एकर, २ वेळा, एकूण १० दिले जाते.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_flowering_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "flowering_and_berry_growth",
+    "language": "mr",
+    "content": "द्राक्ष पिकाच्या फुलोरा व मणी वाढ अवस्थेत ३६ ते ७० दिवसांत महाधन ग्रेप्स स्पेशल (६:३४:१७ + TE) ११ कि. प्रति आठवडा प्रति एकर, ४ वेळा, एकूण ४४ दिले जाते. महाधन मॅंगनीशियम सल्फेट ४५ व ५५ व्या दिवशी ५ कि. प्रति एकर, २ वेळा, एकूण १०. महाधन CaTs ५५ व ६५ व्या दिवशी ५ लि. प्रति एकर, २ वेळा, एकूण १० लि. महाधन कॅल्शियम नायट्रेट ४१, ५३, ६३ व ६८ व्या दिवशी ५ कि. प्रति एकर, ४ वेळा, एकूण २०.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_berry_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "berry_development",
+    "language": "mr",
+    "content": "द्राक्ष पिकाच्या मणी विकास अवस्थेत ७१ ते ८५ दिवसांत महाधन ग्रेप्स स्पेशल (६:३४:१७ + TE) ११ कि. प्रति आठवडा प्रति एकर, ३ वेळा, एकूण ३३ दिले जाते. महाधन कॅल्शियम नायट्रेट गरज पाहून ८० व ९० व्या दिवशी ५ कि. प्रति एकर, २ वेळा, एकूण १० दिले जाते.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_veraison_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "veraison_and_harvesting",
+    "language": "mr",
+    "content": "द्राक्ष पिकाच्या पाणी उतरणे (वयारजन) व तोडणी अवस्थेत ८६ ते १०६ दिवसांत महाधन ग्रेप्स स्पेशल (६:०:३७:१६ + TE) ११ कि. प्रति आठवडा प्रति एकर, ३ वेळा, एकूण ३३ दिले जाते. १०६ ते १२० दिवसांत महाधन एसओपी / महाधन KTS ५ कि. प्रति एकर, ३ वेळा, एकूण १५ दिले जाते.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "fertigation/spray"
+    }
+  },
+  {
+    "chunk_id": "grapes_img2_note_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210815.png",
+    "crop": "grapes",
+    "stage": "general_note",
+    "language": "mr",
+    "content": "टीप: वातावरण, द्राक्षेवेलीवरील भार व छाटणीच्या वेळेनुसार वरील खत मात्रेमध्ये अंशतः बदल होऊ शकतातो.",
+    "metadata": {
+      "source": "OCR",
+      "type": "note"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_planting_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "planting",
+    "language": "mr",
+    "content": "ओलित कापूस पिकास महाधन क्रॉपटेक खत व्यवस्थापन. लागवडीच्या वेळी प्रति एकर जमिनीद्वारे क्रॉपटेक ८० किलो, बेनसल्फ सुपरफास्फेट १० किलो आणि युरिया २० किलो.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_30_40_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "30_to_40_days",
+    "language": "mr",
+    "content": "ओलित कापूस पिकात लागवडीनंतर ३० ते ४० दिवसांनी प्रति एकर जमिनीद्वारे क्रॉपटेक ४० किलो आणि युरिया ४५ किलो. फवारणीद्वारे प्रति लिटर पाण्यात महाधन ११:१९:१९ ५ ग्रॅम + २ मि.लि.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil_and_spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_40_50_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "40_to_50_days",
+    "language": "mr",
+    "content": "ओलित कापूस पिकात लागवडीनंतर ४० ते ५० दिवसांनी फोलिअरिंग शेतत ९:२०:१८:०.५ ५ ग्रॅम प्रति लिटर पाण्यात फवारणीद्वारे.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_50_60_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "50_to_60_days",
+    "language": "mr",
+    "content": "ओलित कापूस पिकात लागवडीनंतर ५० ते ६० दिवसांनी प्रति एकर जमिनीद्वारे क्रॉपटेक ४० किलो आणि युरिया ४५ किलो.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_60_70_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "60_to_70_days",
+    "language": "mr",
+    "content": "ओलित कापूस पिकात लागवडीनंतर ६० ते ७० दिवसांनी फोलिअरिंग शेतत ९:२०:१८:०.५ ५ ग्रॅम प्रति लिटर पाण्यात फवारणीद्वारे.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_planting_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "planting",
+    "language": "mr",
+    "content": "कोरडवाहू कापूस पिकास महाधन क्रॉपटेक खत व्यवस्थापन. लागवडीच्या वेळी प्रति एकर जमिनीद्वारे क्रॉपटेक ४० किलो, बेनसल्फ सुपरफास्फेट १० किलो आणि युरिया २० किलो.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_30_40_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "30_to_40_days",
+    "language": "mr",
+    "content": "कोरडवाहू कापूस पिकात लागवडीनंतर ३० ते ४० दिवसांनी प्रति एकर जमिनीद्वारे क्रॉपटेक ४० किलो आणि युरिया ३५ किलो. फवारणीद्वारे प्रति लिटर पाण्यात महाधन ११:१९:१९ ५ ग्रॅम + २ मि.लि.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil_and_spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_40_50_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "40_to_50_days",
+    "language": "mr",
+    "content": "कोरडवाहू कापूस पिकात लागवडीनंतर ४० ते ५० दिवसांनी फोलिअरिंग शेतत ९:२०:१८:०.५ ५ ग्रॅम प्रति लिटर पाण्यात फवारणीद्वारे.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_50_60_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "50_to_60_days",
+    "language": "mr",
+    "content": "कोरडवाहू कापूस पिकात लागवडीनंतर ५० ते ६० दिवसांनी प्रति एकर जमिनीद्वारे युरिया ३५ किलो.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_60_70_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "60_to_70_days",
+    "language": "mr",
+    "content": "कोरडवाहू कापूस पिकात लागवडीनंतर ६० ते ७० दिवसांनी फोलिअरिंग शेतत ९:२०:१८:०.५ ५ ग्रॅम प्रति लिटर पाण्यात फवारणीद्वारे.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_planting_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "planting",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At planting, through soil per acre: Croptek 80 kg, Bensulf Superphosphate 10 kg and Urea 20 kg.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_30_40_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "30_to_40_days",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At 30 to 40 days after planting, through soil per acre: Croptek 40 kg and Urea 45 kg. Through spray per litre of water: Mahadhan 11:19:19 at 5 g + 2 ml.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil_and_spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_40_50_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "40_to_50_days",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At 40 to 50 days after planting, through spray per litre of water: Foliaring Shetat 9:20:18:0.5 at 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_50_60_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "50_to_60_days",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At 50 to 60 days after planting, through soil per acre: Croptek 40 kg and Urea 45 kg.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_irrigated_60_70_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "60_to_70_days",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At 60 to 70 days after planting, through spray per litre of water: Foliaring Shetat 9:20:18:0.5 at 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_planting_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "planting",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At planting, through soil per acre: Croptek 40 kg, Bensulf Superphosphate 10 kg and Urea 20 kg.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_30_40_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "30_to_40_days",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At 30 to 40 days after planting, through soil per acre: Croptek 40 kg and Urea 35 kg. Through spray per litre of water: Mahadhan 11:19:19 at 5 g + 2 ml.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil_and_spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_40_50_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "40_to_50_days",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At 40 to 50 days after planting, through spray per litre of water: Foliaring Shetat 9:20:18:0.5 at 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_50_60_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "50_to_60_days",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At 50 to 60 days after planting, through soil per acre: Urea 35 kg.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img3_rainfed_60_70_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210824.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "60_to_70_days",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At 60 to 70 days after planting, through spray per litre of water: Foliaring Shetat 9:20:18:0.5 at 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "tomato_img4_benefits_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210839.png",
+    "crop": "tomato",
+    "stage": "general",
+    "language": "hi",
+    "content": "महाधन सोल्यूटेक टोमेटो खाद के लाभ: टमाटर फसल की एकसमान एवं संतुलित बढवार, टमाटर का एकसमान आकार, आकर्षक एवं चमकदार टमाटर, ज्यादा टिकाऊपन एवं गुणवत्तापूर्ण टमाटर और अधिक उपज।",
+    "metadata": {
+      "source": "OCR",
+      "type": "benefits"
+    }
+  },
+  {
+    "chunk_id": "tomato_img4_benefits_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210839.png",
+    "crop": "tomato",
+    "stage": "general",
+    "language": "en",
+    "content": "Benefits of Mahadhan Solutek Tomato fertiliser: uniform and balanced growth of the tomato crop, uniform size of tomatoes, attractive and shiny tomatoes, greater shelf life and quality tomatoes, and higher yield.",
+    "metadata": {
+      "source": "English translation OCR",
+      "type": "benefits"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_planting_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "sowing",
+    "language": "gu",
+    "content": "પ્રિયત કપાસના પાક માટે મહાધન કોપટેક ખાતર વ્યવસ્થાપન. વાવણી સમયે પ્રતિ એકર જમીન દ્વારા કોપટેક® 8:21:21 80 કિલો, બેન્સફ્લ સુપરકાસ્ટ 10 કિલો અને યુરિયા 20 કિલો.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_30_40_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "30_to_40_days",
+    "language": "gu",
+    "content": "સિંચાઈવાળા કપાસમાં વાવણી પછી 30 થી 40 દિવસે પ્રતિ એકર જમીન દ્વારા કોપટેક® 8:21:21 40 કિલો અને યુરિયા 45 કિલો. સ્પ્રે દ્વારા પ્રતિ લિટર પાણીમાં મહાધન 19:19:19 5 ગ્રામ.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil_and_spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_40_50_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "40_to_50_days",
+    "language": "gu",
+    "content": "સિંચાઈવાળા કપાસમાં વાવણી પછી 40 થી 50 દિવસે ફ્લાવરિંગ સ્પેશિયલ 9:27:18:7.5 5 ગ્રામ પ્રતિ લિટર પાણીમાં સ્પ્રે દ્વારા.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_50_60_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "50_to_60_days",
+    "language": "gu",
+    "content": "સિંચાઈવાળા કપાસમાં વાવણી પછી 50 થી 60 દિવસે પ્રતિ એકર જમીન દ્વારા કોપટેક® 8:21:21 40 કિલો અને યુરિયા 45 કિલો.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_60_70_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "60_to_70_days",
+    "language": "gu",
+    "content": "સિંચાઈવાળા કપાસમાં વાવણી પછી 60 થી 70 દિવસે ફ્લાવરિંગ સ્પેશિયલ 9:27:18:7.5 5 ગ્રામ પ્રતિ લિટર પાણીમાં સ્પ્રે દ્વારા.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_planting_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "sowing",
+    "language": "gu",
+    "content": "વરસાદ આધારિત કપાસના પાક માટે મહાધન કોપટેક® ખાતર વ્યવસ્થાપન. વાવણી સમયે પ્રતિ એકર જમીન દ્વારા કોપટેક® 8:21:21 60 કિલો, બેન્સફ્લ સુપરકાસ્ટ 10 કિલો અને યુરિયા 20 કિલો.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_30_40_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "30_to_40_days",
+    "language": "gu",
+    "content": "વરસાદ આધારિત કપાસમાં વાવણી પછી 30 થી 40 દિવસે પ્રતિ એકર જમીન દ્વારા કોપટેક® 8:21:21 60 કિલો અને યુરિયા 35 કિલો. સ્પ્રે દ્વારા પ્રતિ લિટર પાણીમાં મહાધન 19:19:19 5 ગ્રામ.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil_and_spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_40_50_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "40_to_50_days",
+    "language": "gu",
+    "content": "વરસાદ આધારિત કપાસમાં વાવણી પછી 40 થી 50 દિવસે ફ્લાવરિંગ સ્પેશિયલ 9:27:18:7.5 5 ગ્રામ પ્રતિ લિટર પાણીમાં સ્પ્રે દ્વારા.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_50_60_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "50_to_60_days",
+    "language": "gu",
+    "content": "વરસાદ આધારિત કપાસમાં વાવણી પછી 50 થી 60 દિવસે પ્રતિ એકર જમીન દ્વારા યુરિયા 35 કિલો.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_60_70_gu",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "60_to_70_days",
+    "language": "gu",
+    "content": "વરસાદ આધારિત કપાસમાં વાવણી પછી 60 થી 70 દિવસે ફ્લાવરિંગ સ્પેશિયલ 9:27:18:7.5 5 ગ્રામ પ્રતિ લિટર પાણીમાં સ્પ્રે દ્વારા.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_planting_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "sowing",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At sowing, through soil per acre: Croptek 8:21:21 80 kg, Bensulf Superkast 10 kg and Urea 20 kg.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_30_40_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "30_to_40_days",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At 30 to 40 days after sowing, through soil per acre: Croptek 8:21:21 40 kg and Urea 45 kg. Through spray per litre of water: Mahadhan 19:19:19 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil_and_spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_40_50_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "40_to_50_days",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At 40 to 50 days after sowing, through spray per litre of water: Flowering Special 9:27:18:7.5 at 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_50_60_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "50_to_60_days",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At 50 to 60 days after sowing, through soil per acre: Croptek 8:21:21 40 kg and Urea 45 kg.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_irrigated_60_70_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "irrigated",
+    "stage": "60_to_70_days",
+    "language": "en",
+    "content": "Crop: Cotton. Irrigated cotton. At 60 to 70 days after sowing, through spray per litre of water: Flowering Special 9:27:18:7.5 at 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_planting_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "sowing",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At sowing, through soil per acre: Croptek 8:21:21 60 kg, Bensulf Superkast 10 kg and Urea 20 kg.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_30_40_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "30_to_40_days",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At 30 to 40 days after sowing, through soil per acre: Croptek 8:21:21 60 kg and Urea 35 kg. Through spray per litre of water: Mahadhan 19:19:19 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil_and_spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_40_50_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "40_to_50_days",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At 40 to 50 days after sowing, through spray per litre of water: Flowering Special 9:27:18:7.5 at 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_50_60_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "50_to_60_days",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At 50 to 60 days after sowing, through soil per acre: Urea 35 kg.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "cotton_img5_rainfed_60_70_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210846.png",
+    "crop": "cotton",
+    "condition": "rainfed",
+    "stage": "60_to_70_days",
+    "language": "en",
+    "content": "Crop: Cotton. Rainfed cotton. At 60 to 70 days after sowing, through spray per litre of water: Flowering Special 9:27:18:7.5 at 5 g.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "spray"
+    }
+  },
+  {
+    "chunk_id": "arecanut_img6_pre_monsoon_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210951.png",
+    "crop": "arecanut",
+    "stage": "pre_monsoon",
+    "language": "en",
+    "content": "Crop: Arecanut. During Pre-Monsoon (May - June), apply Croptek 9:24:24 at 120 kg per acre, Urea at 90 kg per acre and MOP at 100 kg per acre.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "arecanut_img6_post_monsoon_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210951.png",
+    "crop": "arecanut",
+    "stage": "post_monsoon",
+    "language": "en",
+    "content": "Crop: Arecanut. During Post-Monsoon (Sept - Oct), apply Croptek 9:24:24 at 120 kg per acre, Urea at 90 kg per acre and MOP at 100 kg per acre.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "arecanut_img6_benefits_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210951.png",
+    "crop": "arecanut",
+    "stage": "general",
+    "language": "en",
+    "content": "Benefits for Arecanut shown in the source include reduced flower drop, reduced flower drying, increased number of nuts, and increased yield up to 15-20%. The source states these are based on various trials conducted by ICAR affiliated Agricultural Research Institutes / Universities.",
+    "metadata": {
+      "source": "OCR",
+      "type": "benefits"
+    }
+  },
+  {
+    "chunk_id": "cotton_img7_benefits_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-210959.png",
+    "crop": "cotton",
+    "stage": "general",
+    "language": "mr",
+    "content": "महाधन क्रॉपटेक® ८:२१:२१ पोषण समाधानाचे कापूस पिकासाठी फायदे: प्रतिझाड २-३ वाढीव फळफुंडा, प्रतिझाड १०-१५ जास्त बोडे, बोंडांच्या वजनात ७% वाढ आणि उत्पादनात १५% वाढ.",
+    "metadata": {
+      "source": "OCR",
+      "type": "benefits"
+    }
+  },
+  {
+    "chunk_id": "onion_img8_first_dose_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211758.png",
+    "crop": "onion",
+    "stage": "first_dose",
+    "language": "hi",
+    "content": "प्याज की फसल में पहली खुराक रोपाई के समय बेसल डोस के रूप में दी जाती है। प्रति एकड़ क्रॉपटेक 60 किलोग्राम, बेनसाल्फ सुपरकास्ट 20 किलोग्राम और यूरिया 45 किलोग्राम दिया जाता है।",
+    "metadata": {
+      "source": "OCR",
+      "type": "recommendation",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "onion_img8_second_dose_hi",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211758.png",
+    "crop": "onion",
+    "stage": "second_dose",
+    "language": "hi",
+    "content": "प्याज की फसल में दूसरी खुराक पहली खुराक के 30 से 40 दिनों बाद दी जाती है। प्रति एकड़ क्रॉपटेक 60 किलोग्राम और महाधन 24:24:0 50 किलोग्राम दिया जाता है।",
+    "metadata": {
+      "source": "OCR",
+      "type": "recommendation",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "onion_img9_first_dose_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211014.png",
+    "crop": "onion",
+    "stage": "first_dose",
+    "language": "mr",
+    "content": "कांदा पिकाचा पहिला डोस लागवडीच्या वेळी बेसल म्हणून प्रति एकर क्रॉपटेक® ८:२१:२१ ६० किलो + बेन्सल्फ सुपरफास्ट २० किलो + युरिया ४५ किलो.",
+    "metadata": {
+      "source": "OCR",
+      "type": "recommendation",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "onion_img9_second_dose_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211014.png",
+    "crop": "onion",
+    "stage": "second_dose",
+    "language": "mr",
+    "content": "कांदा पिकाचा दुसरा डोस लागवडीनंतर ३० ते ४० दिवसांनी प्रति एकर क्रॉपटेक® ८:२१:२१ ६० किलो + महाधन २४:२४:० ५० किलो.",
+    "metadata": {
+      "source": "OCR",
+      "type": "recommendation",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "onion_img9_note_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211014.png",
+    "crop": "onion",
+    "stage": "general_note",
+    "language": "mr",
+    "content": "ICAR संलग्न कृषि संशोधन संस्था / विद्यापीठांनी घेतलेल्या विविध चाचण्यांवर आधारित.",
+    "metadata": {
+      "source": "OCR",
+      "type": "note"
+    }
+  },
+  {
+    "chunk_id": "maize_img10_sowing_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211326.png",
+    "crop": "maize",
+    "stage": "sowing",
+    "language": "mr",
+    "content": "मका पिकात पेरणीच्या वेळी प्रति एकर क्रॉपटेक® ८:२१:२१ ६० किलो, बेन्सल्फ सुपरफास्ट १० किलो आणि युरिया ३५ किलो द्यावा.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "maize_img10_30_35_days_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211326.png",
+    "crop": "maize",
+    "stage": "30_to_35_days",
+    "language": "mr",
+    "content": "मका पिकात पेरणीनंतर ३० ते ३५ दिवसांनी प्रति एकर क्रॉपटेक® ८:२१:२१ ६० किलो आणि युरिया ४५ किलो द्यावा.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "maize_img10_55_65_days_mr",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211326.png",
+    "crop": "maize",
+    "stage": "55_to_65_days",
+    "language": "mr",
+    "content": "मका पिकात पेरणीनंतर ५५ ते ६५ दिवसांनी प्रति एकर युरिया ४५ किलो द्यावा.",
+    "metadata": {
+      "source": "OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "maize_img10_sowing_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211326.png",
+    "crop": "maize",
+    "stage": "sowing",
+    "language": "en",
+    "content": "Crop: Maize. At sowing, apply Croptek 8:21:21 at 60 kg per acre, Bensulf Superfast at 10 kg per acre and Urea at 35 kg per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "maize_img10_30_35_days_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211326.png",
+    "crop": "maize",
+    "stage": "30_to_35_days",
+    "language": "en",
+    "content": "Crop: Maize. At 30 to 35 days after sowing, apply Croptek 8:21:21 at 60 kg per acre and Urea at 45 kg per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  },
+  {
+    "chunk_id": "maize_img10_55_65_days_en",
+    "document_id": "fertilizer_kb",
+    "image_id": "pasted-image-20261002-211326.png",
+    "crop": "maize",
+    "stage": "55_to_65_days",
+    "language": "en",
+    "content": "Crop: Maize. At 55 to 65 days after sowing, apply Urea at 45 kg per acre.",
+    "metadata": {
+      "source": "English translation OCR",
+      "application_method": "soil"
+    }
+  }
+]
