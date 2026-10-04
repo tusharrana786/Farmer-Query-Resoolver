@@ -35,7 +35,7 @@ DB_CONFIG = {
 embedding_model = SentenceTransformer(EMBEDDING_MODEL)
 
 sarvam = SarvamAI(
-    api_subscription_key="sk_jkxyvz28_6dMIGxhWUJ7WKRhKnefwpEBv"
+    api_subscription_key="<Insert your Sarvam API key here>",
 )
 
 
